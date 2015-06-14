@@ -6,5 +6,5 @@ import(
 )
 
 func main() {
-  fmt.Println("What the h", rand.Intn(4), "ll!?")
+  fmt.Println("What the h", rand.Intn(3), "ll!?")
 }
